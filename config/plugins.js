@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = ({ env }) => ({
     upload: {
         config: {
